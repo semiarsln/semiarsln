@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @semiarsln
-- 👀 I’m interested in RL and Embedded Systems
-- 🌱 I’m currently learning RL
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m currently learning Embedded Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
